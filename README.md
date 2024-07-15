@@ -78,4 +78,4 @@ One can manage the database by accessing the Django admin interface at http://lo
 - B Rithvik
 - K Sai Ruchitha
 - M.Hemadeepika
-- 
+
